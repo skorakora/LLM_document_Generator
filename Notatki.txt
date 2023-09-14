@@ -1,0 +1,26 @@
+Generowanie sekcji składa się z kilku czyności:
+1 Podawany jest fragment spisu treści dla danej sekcji.
+    np. spis treści z sekcji piątej. Model językowy jest na podstawie tego spisu treści proszony o zadawanie pytań na temat tej sekcji.
+
+2 Model zadaje pytania, często w strukturze:
+    1- Głowny temat 1
+    1.1 pytanie pierwsze z głównego tematu 1
+    1.2 pytanie drugie z głównego tematu 1
+    2- Głowny temat 2
+    2.1 pytanie pierwsze z głównego tematu 2
+    2.2 pytanie drugie z głównego tematu 2
+    itd.
+
+3 pytania są przedstawione użytkowikowi, jeśli są one za trudne to
+    użytkownik prosi o pomoc w odpowiedzi na nie, załączając dokument z
+    poprzednimi sekcjami
+
+
+4 jeśli poproszony to model generuje ponownie pytania
+
+5 użytkownik odpowiada na pytania według struktury
+    1.1 odpowiedź na pytanie 1.1
+    1.2 odpowiedź na pytanie 1.2
+    itd.
+
+6 model generuje sekcję
