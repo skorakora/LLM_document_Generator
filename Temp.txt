@@ -1,0 +1,26 @@
+1.1 Stawki będą bazowały na zyskach z projektu, więcej szczegółów
+    jest w biznesplanie (inny niezależny dokument)
+1.2 Nie w pierwszej wersji, ale później są plany
+1.3 Koszty będą bliskie zero, modele będą uruchamiane na
+    platformach typu google colab
+1.4 Nie
+1.5 Ciężko powiedzieć, nie robiłem jeszcze żadnych badań
+    profesjonalnie, dopiero zaczynam - jestem studentem
+
+2.1 Ciężko tutaj powiedzieć, raczej wczesne wersje będą
+    gożystać z darmowych obejść typu Gpt4free, co się da będzie
+    uruchomione na urządzeniu urzytkownia
+2.2 Tak, ciężko powiedzieć
+2.3 Nie mam obecnie takiego zespołu
+2.4 Koszty reklam, dokładne koszty nie są znane. Dział marketingu
+    będzie musiał się dowiedzieć jakiś konkretów
+
+3.1 Nie
+3.2 Nie na obecnym etapie, nie wiedziałbym co z tymi pieniędzmy
+    nawet zrobić
+3.3 To samo co w punkcie 3.2
+3.4 prawdopodobnie,tak,tak
+
+
+
+

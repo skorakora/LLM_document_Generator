@@ -1,0 +1,29 @@
+ 
+Część chatu została usunięta by zapobiec efektowi halucynacji spowodowaną limitowanym kontekstem
+ok zajmijmy się sekcją n:
+"
+<SEKCJA>
+
+    <SUBSEKCJE>
+    <SUBSEKCJE>
+    <SUBSEKCJE>
+
+"
+Najpierw zadaj mi pytania niezbędne do napisania tej sekcji
+
+
+
+
+
+Potrzebuję pomocy by odpowiedzieć na te pytania.
+Użyj swojej wiedzy i dokumentu poniżej by zadać mi pytania jeszcze raz.
+"
+<dokument>
+"
+
+
+
+
+Oto moje odpowiedzi:
+1.1 <odpowiedź 1.1>
+etc.
