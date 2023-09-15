@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T02:04:59.590Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="uoyhCfW5on_D8vw3niQ1" version="21.7.4" type="device">
+  <diagram name="Page-1" id="YbhR9tWAV1tTzsC1S4DS">
+    <mxGraphModel dx="733" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x3Qhe64aSPMRLp8mbO2n-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="x3Qhe64aSPMRLp8mbO2n-1" value="Decription" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x3Qhe64aSPMRLp8mbO2n-2" value="Table of contents" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x3Qhe64aSPMRLp8mbO2n-3" value="Section n" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x3Qhe64aSPMRLp8mbO2n-7" value="Prompt structure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
